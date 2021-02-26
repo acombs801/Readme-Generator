@@ -15,16 +15,17 @@ const promptUser = () => {
     {
         type: 'checkbox',
         name: 'license',
-        message: 'Select a license that applies to you. If none, simply press "Enter"',
-        choices: ['![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)', 
+        message: 'Select a license that applies to you.',
+        choices: ['',
+                  '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)', 
                   '![License: WTFPL]( https://img.shields.io/badge/License-WTFPL-brightgreen.svg)',
                   '![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)',
                   '![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)',
                   '![License: (https://img.shields.io/badge/License-Apache%202.0-blue.svg)',
-                  '',
                  ]
     },
     {
+
         type: 'input',
         name: 'description',
         message: 'Please write a brief description of your project.',
