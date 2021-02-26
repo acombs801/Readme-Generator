@@ -21,6 +21,7 @@ const promptUser = () => {
                   '![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)',
                   '![License: ODbL](https://img.shields.io/badge/License-PDDL-brightgreen.svg)',
                   '![License: (https://img.shields.io/badge/License-Apache%202.0-blue.svg)',
+                  '',
                  ]
     },
     {
