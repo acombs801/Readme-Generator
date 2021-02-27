@@ -23,11 +23,10 @@
 > ## *Contributers*
     Adrian Combs
 > ## *Tests*
-    Test Video - https://drive.google.com/file/d/1busoZQWE0KEfMx6AbIm6fshpHhtr7jm_/view
+    * [Test Video](https://drive.google.com/file/d/1busoZQWE0KEfMx6AbIm6fshpHhtr7jm_/view)
 
 > ## *Questions*
     Contact me!
     LinkedIn: https://www.linkedin.com/in/adrian-combs9945/
-
     Github: https://github.com/acombs801?tab=repositories
 
