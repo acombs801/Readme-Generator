@@ -23,7 +23,7 @@
 > ## *Contributers*
     Adrian Combs
 > ## *Tests*
-    * [Test Video](https://drive.google.com/file/d/1busoZQWE0KEfMx6AbIm6fshpHhtr7jm_/view)
+    Test Video - https://drive.google.com/file/d/1busoZQWE0KEfMx6AbIm6fshpHhtr7jm_/view
 
 > ## *Questions*
     Contact me!
